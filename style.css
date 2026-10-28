@@ -1,0 +1,20 @@
+ul{
+    display:flex;
+    justify-content:space-around;
+    list-style:none;
+}
+a{
+    color:gold;
+    text-decoration:none;
+}
+header{
+    background-color:black;
+    color:gold;
+    border:2px solid:white;
+}
+body{
+    background-color:rgb(33, 32, 32);
+}
+article.verso{
+    color:gold;
+}
